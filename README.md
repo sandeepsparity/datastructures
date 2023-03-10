@@ -17,3 +17,9 @@ In computer science, a linked list is a linear collection of data elements whose
 | :---                     |    :----:   |                     ---: |
 | Linked List              | Problems and Solutions    |                          |
 |                          | Text        |                          |
+
+
+https://www.w3resource.com/javascript-exercises/linkedlist/index.php
+
+# 1. Write a JavaScript program to create and display Singly Linked List.
+# 2. Write a JavaScript program to create a singly linked list of n nodes and display it in reverse order.
